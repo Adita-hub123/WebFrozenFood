@@ -26,6 +26,7 @@ You can now visit the app in your browser by visiting [http://127.0.0.1:8000](ht
 
 ## Commands
 
+
 Command | Description
 --- | ---
 **`php artisan test`** | Run the tests
