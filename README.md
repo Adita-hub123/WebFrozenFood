@@ -30,7 +30,7 @@
 
 Cara instalasi :
 ## 1. Clone Repository melalui git terminal ke direktori kita
-     git clone `https://github.com/chrisburongan/TugasWebFramework` 
+     git clone `https://github.com/Adita-hub123/WebFrozenFood.git` 
   
 ## 2. Instalasi dependencies PHP dengan Composer:
     `composer install`
